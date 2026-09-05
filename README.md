@@ -1,6 +1,4 @@
 # Hi there! 👋 Welcome to my GitHub
-
-# IT Consultant & Full-Stack Developer
 ## UI/UX & Front-End Specialist | Building Web Solutions for UMKM
 
 ---
