@@ -31,7 +31,7 @@ React • JavaScript • HTML5 • CSS3 • Tailwind CSS • Node.js • Python 
 
 ## 🌐 Connect With Me
 
-- 📧 Email: laoderrahmad23@gmail.com
+- 📧 Email: laoderahmadhidayat23@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/la-ode-rahmad-hidayat-s-kom-257857293/
 - 📱 WhatsApp: +62 822-8330-5231
 - 📞 Phone: +62 822-8330-5231
