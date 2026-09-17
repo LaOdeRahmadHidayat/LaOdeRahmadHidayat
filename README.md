@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Halo! Saya **La Ode Rahmad Hidayat, S.Kom** - seorang **IT Consultant & Full-Stack Developer** berbasis di **Tangerang, Banten, Indonesia**.
+Halo! Saya **La Ode Rahmad Hidayat, S.Kom** - seorang **UIUX Designer & Full-Stack Developer** berbasis di **Tangerang, Banten, Indonesia**.
 
 Saya passionate dalam:
 - 🎨 **UI/UX Design & Front-End Development** - Menciptakan aplikasi web yang user-friendly
